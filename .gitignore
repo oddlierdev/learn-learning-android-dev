@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+.deploy*/
+_multiconfig.yml
+
+# all hidden files except .gitignore
+.*
+!/.gitignore
+
+# directories
+public/
+resources/
+misc/

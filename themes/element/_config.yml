@@ -1,0 +1,85 @@
+# Meta
+description: Theme for Learning Android 
+keywords: hexo,theme,oddlier,oddlierdev
+
+# Author
+author_avatar: img/avatar.svg
+
+# Search
+search: 
+  enable: false
+  service: google # google/algolia/azure
+  # google 
+  google_api_key: 
+  google_engine_id: 
+  # algolia
+  algolia_app_id: 
+  algolia_api_key: 
+  algolia_index_name: 
+  # azure
+  azure_service_name: 
+  azure_index_name: 
+  azure_query_key: 
+
+# Miscellaneous
+google_analytics: 
+favicon: img/favicon.ico
+
+# Less
+less:
+  compress: true
+
+# Comment
+disqus_shortname:
+valine:
+  enable: false
+  appid:
+  appkey:
+  notify: false
+  verify: false
+  placeholder: Just go go
+  avatar: retro
+  guest_info: nick,mail,link
+  pageSize: 10
+  visitor: false
+ 
+# use url, not username, dict with key:value
+socials:
+- name: feed
+	url: # /atom.xml
+- name: email
+  url: 
+- name: github
+  url: https://github.com/oddlierdev
+- name: twitter
+  url: 
+- name: google
+  url: 
+- name: facebook
+  url: 
+- name: linkedin
+  url: 
+- name: weibo
+  url: 
+- name: tumblr
+  url: 
+- name: dribbble
+  url: 
+- name: pinterest
+  url: 
+- name: instagram
+  url: 
+- name: behance
+  url: 
+
+node_sass:
+  debug: false
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+# image classes for each post-link
+post_link_images:
+- img1
+# - img2
+# - img3

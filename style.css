@@ -905,7 +905,6 @@ body.bio-open .site-wrapper .overlay {
 .dark-btn {
   display: inline-block;
   background: rgba(0, 0, 0, 0.3);
-  border: 1px solid black;
   padding: 0 15px;
   font-size: 13px;
   font-family: "Oswald", Helvetica, Arial, "Hiragino Sans GB", "Hiragino Sans GB W3", Microsoft JhengHei, WenQuanYi Micro Hei, "Microsoft YaHei", sans-serif;
@@ -1075,7 +1074,6 @@ body.bio-open .site-wrapper .overlay {
   width: 46px;
   height: 46px;
   background-color: rgba(0, 0, 0, 0.3);
-  border: 1px solid black;
   margin: 5px 2px;
   /*&.feed {
     &:hover {

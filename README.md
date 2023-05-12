@@ -1,8 +1,8 @@
-# Learning Android App Development
+# Learning How to Learn with Android App Development
 
 ## Description
 
-Learn how to code android apps
+A guide on learning how to learn using android app development as a starter 
 
 ## Authors
 

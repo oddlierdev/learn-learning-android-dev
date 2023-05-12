@@ -3,7 +3,7 @@
 .dark-btn {
   display: inline-block;
   background: rgba(0, 0, 0, 0.3);
-  border: 1px solid black;
+  // border: 1px solid black;
   padding: 0 15px;
   font-size: 13px;
   font-family: $base-font-family;
@@ -186,7 +186,7 @@
       width: 46px;
       height: 46px;
       background-color: rgba(0,0,0,0.3);
-      border: 1px solid black;
+      // border: 1px solid black;
       margin: 5px 2px;
 
       &:hover {
